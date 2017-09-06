@@ -1,1 +1,1 @@
-A litle Browser App where you can practice RGB Colors. 
+A little Browser App where you can practice RGB Colors. 
